@@ -1,4 +1,4 @@
-# IS-LABS
+# IS-LABS Курушин М20-ИСТ-5
 
 Repo for code review and tracking of implemented tasks.
 
